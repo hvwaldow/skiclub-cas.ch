@@ -1,0 +1,36 @@
+title = "Skiclub CAS"
+baseURL = "https://skiclub-cas.ch"
+languageCode = "de"
+theme = "ananke"
+themesDir = "./themes"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "de"
+SectionPagesMenu = "main"
+Paginate = 9
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "/images/cas-logo_min-16x16.png"
+  description = "Club Amici Sportivi"
+  cover_dimming_class = "none"
+  logo = "/images/1-logo_transparent.gif"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-near-white"
+  featured_image = "/images/panorama_Flums.jpg"
+  custom_css = ["css/cas.css"]
+  recent_posts_number = 2
