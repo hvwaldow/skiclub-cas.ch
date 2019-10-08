@@ -8,4 +8,4 @@ menu:
 
 ---
 
-Um beim CAS mitzumachen oder mehr Informationen zu erhalten, bitte Email an [info@cas-skiclub.ch](mailto:info@cas-skiclub.ch).
+Um beim CAS mitzumachen oder mehr Informationen zu erhalten, bitte Email an [info@skiclub-cas.ch](mailto:info@skiclub-cas.ch).
