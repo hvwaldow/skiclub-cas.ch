@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Skiclub CAS</title>
+    <link>https://skiclub-cas.ch/</link>
+    <description>Recent content in Home on Skiclub CAS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://skiclub-cas.ch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://skiclub-cas.ch/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://skiclub-cas.ch/kontakt/</guid>
+      <description>Um beim CAS mitzumachen oder mehr Informationen zu erhalten, bitte Email an info@skiclub-cas.ch.</description>
+    </item>
+    
+    <item>
+      <title>Über Uns</title>
+      <link>https://skiclub-cas.ch/ueber_uns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://skiclub-cas.ch/ueber_uns/</guid>
+      <description>Der Club bezweckt die Förderung des Sportes sowie der Kameradschaft und Geselligkeit. Politisch und konfessionell ist er unabhängig.
+Der Zweck soll erreicht werden durch:
+ Organisation von sportlichen Betätigungen (Sommer &amp;amp; Winter) Organisation von Wettkämpfen Förderung und Unterstützung der Mitglieder, die&amp;nbsp;sich in der Erteilung von Skiunterricht ausbilden&amp;nbsp;lassen wollen Organisation von geselligen Anlässen  Eine komplette Kopie unserer Statuten kann gerne per Email anfordert werden.</description>
+    </item>
+    
+  </channel>
+</rss>
