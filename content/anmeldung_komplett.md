@@ -7,7 +7,7 @@ type: page
 
 ---
 
-<b>Du hast dich erfolgreich angemeldet und solltest eine Bestätigungsemail bekommen haben.</b>
+<b>Du hast dich erfolgreich angemeldet.</b>
 
 <h1>Wir freuen uns auch Euch!</h1>
 
