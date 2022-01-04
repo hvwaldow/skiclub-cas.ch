@@ -34,3 +34,6 @@ enableRobotsTXT = true
   featured_image = "/images/panorama_Flums.jpg"
   custom_css = ["css/cas.css"]
   recent_posts_number = 2
+
+[markup.goldmark.renderer]
+  unsafe= true
