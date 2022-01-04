@@ -36,4 +36,4 @@ enableRobotsTXT = true
   recent_posts_number = 2
 
 [markup.goldmark.renderer]
-  unsafe= true
+  unsafe = true
