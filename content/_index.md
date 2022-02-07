@@ -26,7 +26,7 @@ viele Schultern.
 </p>
 
 <p class="tl">
-Aus diesem Grund wird es neben vier Sonntagen mit Skischule zwei 
+Aus diesem Grund wird es neben vier Sonntagen mit Skischule drei 
 Plauschsonntage geben, um allen ein ungezwungenes sportliches und 
 kameradschaftliches Beisammensein zu ermöglichen.
 </p>
@@ -34,15 +34,15 @@ kameradschaftliches Beisammensein zu ermöglichen.
 <div width=100%">
 <table class="ba b--blue bw1" style="width:100%";>
 
-<tr><td class="tl"><strong>Skischule</strong><br />jeweils von 9-12 Uhr, Kindergarten nur bis 11:30 Uhr</td><td class="tl">9. Januar 2022<br />23. Januar 2022<br />6. Februar 2022<br />6. März 2022</td></tr>
+<tr><td class="tl"><strong>Skischule</strong><br />jeweils von 9-12 Uhr, Kindergarten nur bis 11:30 Uhr</td><td class="tl">9. Januar 2022<br />23. Januar 2022<br />6. Februar 2022<br />27. Februar 2022</td></tr>
 
 <tr><td colspan="2" class="bb bw1 b--blue"></td></tr>
 
-<tr><td class="tl"><strong>Plauschsonntage</strong></td><td class="tl">16. Januar 2022<br />30. Januar 2022</td></tr>
+<tr><td class="tl"><strong>Plauschsonntage</strong></td><td class="tl">16. Januar 2022<br />30. Januar 2022<br />13. März 2022</td></tr>
 
 <tr><td colspan="2" class="bb bw1 b--blue"></td></tr>
 
-<tr><td class="tl"><strong>CAS Skirennen</strong></td><td class="tl">13. März 2022</td></tr>
+<tr><td class="tl"><strong>CAS Skirennen</strong></td><td class="tl">6. März 2022</td></tr>
 
 <tr><td colspan="2" class="bb bw1 b--blue"></td></tr>
 
@@ -57,7 +57,7 @@ Ital. Ski Club Rennen in Elm<br />
 gleichzeitig die sich abermals verschärfende Pandemiesituation sowie die 
 gesetzlichen Bestimmungen im Auge.</p>
 
-<p class="tl"><strong>Wir euch herzlich, euch jeweils am Samstag vorher bis 14
+<p class="tl"><strong>Wir bitten euch herzlich, euch jeweils am Samstag vorher bis 14
 Uhr per SMS unter der in der Email kommunizierten Nummer fest
 anzumelden.</strong> Das erleichtert uns die Planung sehr. Wir bedanken uns
 schon jetzt für eure Unterstützung!</p>
